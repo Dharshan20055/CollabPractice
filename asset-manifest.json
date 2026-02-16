@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CollabPractice/static/css/main.10cc8cd5.css",
+    "main.js": "/CollabPractice/static/js/main.08db09af.js",
+    "static/js/453.33eb1935.chunk.js": "/CollabPractice/static/js/453.33eb1935.chunk.js",
+    "index.html": "/CollabPractice/index.html",
+    "main.10cc8cd5.css.map": "/CollabPractice/static/css/main.10cc8cd5.css.map",
+    "main.08db09af.js.map": "/CollabPractice/static/js/main.08db09af.js.map",
+    "453.33eb1935.chunk.js.map": "/CollabPractice/static/js/453.33eb1935.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10cc8cd5.css",
+    "static/js/main.08db09af.js"
+  ]
+}
