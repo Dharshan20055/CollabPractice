@@ -31,6 +31,7 @@ function ContactPage() {
         <Button variant="primary" type="submit">
           Send
         </Button>
+        <br></br>
       </Form>
     </Container>
   );
