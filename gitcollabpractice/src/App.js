@@ -5,12 +5,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/Home';
 import Footer from './components/Footer';
 
+import About from './components/About';
 
 function App() {
   return (
     <div className="App">
       <NavBar />
       <Home />
+      <About />
       <ContactPage />
       <Footer/>
     </div>
