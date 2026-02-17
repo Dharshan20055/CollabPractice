@@ -3,6 +3,8 @@ import NavBar from './components/NavBar';
 import ContactPage from './components/ContactPage';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './components/Home';
+import Footer from './components/Footer';
+
 import About from './components/About';
 
 function App() {
@@ -12,6 +14,7 @@ function App() {
       <Home />
       <About />
       <ContactPage />
+      <Footer/>
     </div>
   );
 }
